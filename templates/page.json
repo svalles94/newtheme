@@ -2,9 +2,13 @@
   "sections": {
     "main": {
       "type": "main-page"
+    },
+    "about-us": {
+      "type": "about-us"
     }
   },
   "order": [
-    "main"
+    "main",
+    "about-us"
   ]
 }

@@ -6,6 +6,10 @@
   --color-background: var(--color-base-background-1);
 }
 
+.color-purple {
+  background: purple;
+}
+
 .color-background-2 {
   --color-background: var(--color-base-background-2);
 }
@@ -1604,7 +1608,7 @@ input[type='checkbox'] {
 
 .announcement-bar__message {
   text-align: center;
-  padding: 1rem 2rem;
+  padding: 3rem 4rem;
   margin: 0;
   letter-spacing: 0.1rem;
 }

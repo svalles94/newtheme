@@ -1,0 +1,18 @@
+{% assign array_string = "Mike,Jared,Linda,Steven,Raphael" %}
+{% assign array = array_string | split: "," %}
+<div class="namesboxcontainer">
+<ul>
+{% for name in array %}
+<li class="namesbox">{{ name }}</li>
+{% endfor %}
+</div>
+{% stylesheet %}
+.namesbox {
+    text-align: center;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+}
+
+{% endstylesheet %}
