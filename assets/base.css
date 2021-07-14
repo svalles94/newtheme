@@ -7,7 +7,8 @@
 }
 
 .color-purple {
-  background: purple;
+  --color-background: purple;
+  --color-foreground: white;
 }
 
 .color-background-2 {
@@ -1603,6 +1604,7 @@ input[type='checkbox'] {
 }
 
 .announcement-bar__link .announcement-bar__message {
+  
   padding: 0;
 }
 
@@ -1621,7 +1623,7 @@ input[type='checkbox'] {
 
 .shopify-section-header-sticky {
   position: sticky;
-  top: 0;
+  top: 10;
 }
 
 .shopify-section-header-hidden {
