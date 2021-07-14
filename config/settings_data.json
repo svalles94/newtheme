@@ -1,5 +1,7 @@
 {
   "current": {
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#0095ff",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -8,7 +10,7 @@
             "type": "announcement",
             "settings": {
               "text": "This is a TESTING store!",
-              "color_scheme": "purple",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
