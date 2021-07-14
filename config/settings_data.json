@@ -12,7 +12,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "This is a TESTING store!",
+              "text": "Get 20% off when you enter promo code WOWCHEAP",
               "color_scheme": "accent-1",
               "link": ""
             }
