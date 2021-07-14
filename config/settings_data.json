@@ -1,7 +1,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#0095ff",
+    "colors_accent_1": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
